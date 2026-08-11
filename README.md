@@ -1,4 +1,4 @@
-# Img2Img AI Generator
+# **[Img2Img AI Generator](https://img2img.net/#generator)**
 
 [![img2img.net logo](https://img2img.net/assets/brand/img2img-mark-128.png)](https://img2img.net/)
 
